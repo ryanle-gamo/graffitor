@@ -3,7 +3,7 @@
 "is_testing": false,
 "is_idfa_enabled":false,
   "isDetailAdsFloating":true,
-  "availalbleFonts": [
+  "availableFonts": [
     {
       "fontId": "abc1",
       "fontOrder": "1",
