@@ -5,146 +5,123 @@
   "isDetailAdsFloating":true,
   "availableFonts": [
     {
-      "fontId": "abc1",
-      "fontOrder": "1",
+      "fontId": "1",
       "isNumerable": false,
       "isFree": true
     },
     {
-      "fontId": "abc2",
-      "fontOrder": "2",
+      "fontId": "2",
       "isNumerable": false,
       "isFree": true
     },
     {
-      "fontId": "abc3",
-      "fontOrder": "3",
+      "fontId": "3",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "4",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "5",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "6",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "7",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "8",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc4",
-      "fontOrder": "4",
+      "fontId": "9",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc5",
-      "fontOrder": "5",
+      "fontId": "10",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc6",
-      "fontOrder": "6",
+      "fontId": "11",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc7",
-      "fontOrder": "7",
+      "fontId": "12",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc8",
-      "fontOrder": "8",
+      "fontId": "13",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc9",
-      "fontOrder": "9",
+      "fontId": "14",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc10",
-      "fontOrder": "10",
+      "fontId": "15",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc11",
-      "fontOrder": "11",
+      "fontId": "16",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc12",
-      "fontOrder": "12",
+      "fontId": "17",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc13",
-      "fontOrder": "13",
+      "fontId": "18",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc14",
-      "fontOrder": "14",
+      "fontId": "19",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc15",
-      "fontOrder": "15",
+      "fontId": "20",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc16",
-      "fontOrder": "16",
+      "fontId": "21",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc17",
-      "fontOrder": "17",
+      "fontId": "22",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc18",
-      "fontOrder": "18",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "abc19",
-      "fontOrder": "19",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "abc20",
-      "fontOrder": "20",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "abc21",
-      "fontOrder": "21",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "abc22",
-      "fontOrder": "22",
-      "isNumerable": false,
-      "isFree": false
-    },
-    {
-      "fontId": "abc23",
+      "fontId": "23",
       "fontOrder": "23",
       "isNumerable": false,
       "isFree": false
     },
     {
-      "fontId": "abc24",
-      "fontOrder": "24",
+      "fontId": "24",
       "isNumerable": false,
       "isFree": false
     }
