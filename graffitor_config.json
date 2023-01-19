@@ -71,8 +71,8 @@
     },
     {
       "fontId": "14",
-      "isNumerable": false,
-      "isFree": false
+      "isNumerable": true,
+      "isFree": true
     },
     {
       "fontId": "15",
@@ -107,7 +107,7 @@
     {
       "fontId": "21",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "22",
@@ -121,7 +121,7 @@
     },
     {
       "fontId": "24",
-      "isNumerable": false,
+      "isNumerable": true,
       "isFree": false
     }
   ]
