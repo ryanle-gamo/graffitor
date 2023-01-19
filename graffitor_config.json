@@ -106,8 +106,8 @@
     },
     {
       "fontId": "21",
-      "isNumerable": false,
-      "isFree": true
+      "isNumerable": true,
+      "isFree": false
     },
     {
       "fontId": "22",
