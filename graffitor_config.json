@@ -1,6 +1,6 @@
 {
 "latest_version": "0.0.0",
-"is_testing": false,
+"is_testing": true,
 "is_idfa_enabled":false,
   "isDetailAdsFloating":true,
   "availableFonts": [
