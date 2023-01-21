@@ -1,6 +1,6 @@
 {
 "latest_version": "0.0.0",
-"is_testing": false, /* immediately enable IDFA at HOME screen. */
+"is_testing": false,
 "is_idfa_enabled":true, /* obsolete since 1.0.9 */
   "isDetailAdsFloating":true, /* enable or disable floating ads at DETAIL screen */
   "availableFonts": [
