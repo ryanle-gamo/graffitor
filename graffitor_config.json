@@ -1,8 +1,8 @@
 {
 "latest_version": "0.0.0",
-"is_testing": false,
-"is_idfa_enabled": false,
-  "isDetailAdsFloating": true,
+"is_testing": true,
+"is_idfa_enabled": true,
+  "isDetailAdsFloating": false,
   "availableFonts": [
     {
       "fontId": "1",
