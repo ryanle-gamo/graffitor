@@ -122,7 +122,7 @@
     {
       "fontId": "24",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     }
   ]
 }
