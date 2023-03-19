@@ -1,0 +1,128 @@
+{
+"latest_version": "1.1.0",
+"is_testing": false,
+"is_idfa_enabled": false,
+  "isDetailAdsFloating": false,
+  "availableFonts": [
+    {
+      "fontId": "1",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "2",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "3",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "4",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "5",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "6",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "7",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "8",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "9",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "10",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "11",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "12",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "13",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "14",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "15",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "16",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "17",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "18",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "19",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "20",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "21",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "22",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "23",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "24",
+      "isNumerable": true,
+      "isFree": false
+    }
+  ]
+}
