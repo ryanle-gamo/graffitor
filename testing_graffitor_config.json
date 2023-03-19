@@ -91,13 +91,13 @@
     },
     {
       "fontId": "18",
-      "isNumerable": false,
+      "isNumerable": true,
       "isFree": false
     },
     {
       "fontId": "19",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "20",
