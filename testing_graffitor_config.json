@@ -76,17 +76,17 @@
     },
     {
       "fontId": "15",
-      "isNumerable": false,
+      "isNumerable": true,
       "isFree": false
     },
     {
       "fontId": "16",
-      "isNumerable": false,
+      "isNumerable": true,
       "isFree": false
     },
     {
       "fontId": "17",
-      "isNumerable": false,
+      "isNumerable": true,
       "isFree": false
     },
     {
