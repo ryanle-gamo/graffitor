@@ -1,6 +1,6 @@
 {
-"latest_version": "1.1.0",
-"is_testing": false,
+"latest_version": "1.1.2",
+"is_testing": true,
 "is_idfa_enabled": false,
   "isDetailAdsFloating": false,
   "availableFonts": [
@@ -97,7 +97,7 @@
     {
       "fontId": "19",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "20",
@@ -122,6 +122,16 @@
     {
       "fontId": "24",
       "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "25",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "26",
+      "isNumerable": false,
       "isFree": true
     }
   ]
