@@ -3,6 +3,8 @@
 "is_testing": true,
 "is_idfa_enabled": false,
   "isDetailAdsFloating": false,
+    "is_detail_ads_floating": true,
+  "is_GDPR_enabled": true,
   "availableFonts": [
     {
       "fontId": "1",
