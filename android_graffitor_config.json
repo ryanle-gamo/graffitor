@@ -3,5 +3,5 @@
 "is_testing": false,
 "isDetailAdsFloating": true,
   "is_detail_ads_floating": true,
-  "is_premium_content_enabled_with_rewarded_ads": true
+  "is_premium_content_enabled_with_rewarded_ads": false
 }
