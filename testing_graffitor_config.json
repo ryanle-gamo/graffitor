@@ -135,6 +135,46 @@
       "fontId": "26",
       "isNumerable": false,
       "isFree": true
+    },
+    {
+      "fontId": "27",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "28",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "29",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "30",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "31",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "32",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "33",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
+      "fontId": "34",
+      "isNumerable": true,
+      "isFree": true
     }
   ]
 }
