@@ -79,7 +79,7 @@
     {
       "fontId": "15",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "16",
@@ -123,6 +123,56 @@
     },
     {
       "fontId": "24",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "25",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "26",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "27",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "28",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "29",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "30",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "31",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "32",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "33",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "34",
       "isNumerable": true,
       "isFree": false
     }
