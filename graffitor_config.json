@@ -4,7 +4,7 @@
 "is_idfa_enabled": true,
   "isDetailAdsFloating": false,
   "is_detail_ads_floating": false,
-  "is_GDPR_enabled": false,
+  "is_GDPR_enabled": true,
   "availableFonts": [
     {
       "fontId": "1",
