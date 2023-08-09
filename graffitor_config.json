@@ -6,7 +6,7 @@
   "is_detail_ads_floating": false,
   "is_GDPR_enabled": true,
   "appstore_url": "https://itunes.apple.com/us/app/apple-store/id1502358961?mt=8",
-  "is_force_update": true,
+  "is_force_update": false,
   "availableFonts": [
     {
       "fontId": "1",
