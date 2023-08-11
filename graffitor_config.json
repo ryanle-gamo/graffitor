@@ -1,6 +1,6 @@
 {
-"latest_version": "1.1.4",
-"is_testing": true,
+"latest_version": "1.1.5",
+"is_testing": false,
 "is_idfa_enabled": true,
   "isDetailAdsFloating": false,
   "is_detail_ads_floating": false,
