@@ -6,7 +6,7 @@
   "is_detail_ads_floating": false,
   "is_GDPR_enabled": true,
   "appstore_url": "https://itunes.apple.com/us/app/apple-store/id1502358961?mt=8",
-  "is_force_update": false,
+  "is_force_update": true,
   "att_title":"App supports free content",
   "att_message":"App activity helps support content creator by allowing ads and keeping content free for you. Continue to Allow Tracking to keep supporting free content",
   "availableFonts": [
