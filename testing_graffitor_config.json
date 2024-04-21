@@ -183,62 +183,62 @@
     {
       "fontId": "35",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "36",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "37",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "38",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "39",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "40",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "41",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "42",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "43",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "44",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "45",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "46",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     }
   ]
 }
