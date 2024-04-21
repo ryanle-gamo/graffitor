@@ -1,5 +1,5 @@
 {
-"latest_version": "1.1.8",
+"latest_version": "1.1.9",
 "is_testing": false,
 "is_idfa_enabled": true,
   "isDetailAdsFloating": false,
@@ -179,6 +179,66 @@
       "fontId": "34",
       "isNumerable": true,
       "isFree": true
+    },
+    {
+      "fontId": "35",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "36",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "37",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "38",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "39",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "40",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "41",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "42",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "43",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "44",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "45",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "46",
+      "isNumerable": false,
+      "isFree": false
     }
   ]
 }
