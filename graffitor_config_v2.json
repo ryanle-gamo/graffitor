@@ -1,10 +1,7 @@
 {
-"latest_version": "1.1.9",
+"latest_version": "1.2.0",
 "is_testing": false,
-"is_idfa_enabled": true,
-  "isDetailAdsFloating": false,
   "is_detail_ads_floating": false,
-  "is_GDPR_enabled": true,
   "appstore_url": "https://itunes.apple.com/us/app/apple-store/id1502358961?mt=8",
   "is_force_update": false,
   "file_url":"https://github.com/humxam/graffitor/raw/main/",
