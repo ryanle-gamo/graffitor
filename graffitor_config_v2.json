@@ -24,11 +24,6 @@
       "isFree": true
     },
     {
-      "fontId": "4",
-      "isNumerable": false,
-      "isFree": true
-    },
-    {
       "fontId": "5",
       "isNumerable": false,
       "isFree": true
@@ -39,9 +34,14 @@
       "isFree": true
     },
     {
+      "fontId": "4",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
       "fontId": "7",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "8",
@@ -70,8 +70,8 @@
     },
     {
       "fontId": "13",
-      "isNumerable": false,
-      "isFree": false
+      "isNumerable": true,
+      "isFree": true
     },
     {
       "fontId": "14",
@@ -96,12 +96,12 @@
     {
       "fontId": "18",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "19",
       "isNumerable": false,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "20",
@@ -176,6 +176,66 @@
     {
       "fontId": "34",
       "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "35",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "36",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "37",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "38",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "39",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "40",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "41",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "42",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "43",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "44",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "45",
+      "isNumerable": true,
+      "isFree": false
+    },
+    {
+      "fontId": "46",
+      "isNumerable": false,
       "isFree": false
     }
   ]
