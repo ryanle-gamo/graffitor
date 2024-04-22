@@ -12,9 +12,74 @@
   "att_message":"App activity helps support content creator by allowing ads and keeping content free for you. Continue to Allow Tracking to keep supporting free content",
   "availableFonts": [
     {
+      "fontId": "1",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "2",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "3",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "5",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "6",
+      "isNumerable": false,
+      "isFree": true
+    },
+    {
+      "fontId": "4",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "7",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "8",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "9",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "10",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "11",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "12",
+      "isNumerable": false,
+      "isFree": false
+    },
+    {
+      "fontId": "13",
+      "isNumerable": true,
+      "isFree": true
+    },
+    {
       "fontId": "14",
       "isNumerable": true,
-      "isFree": false
+      "isFree": true
     },
     {
       "fontId": "15",
@@ -24,12 +89,12 @@
     {
       "fontId": "16",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "17",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "18",
@@ -44,137 +109,137 @@
     {
       "fontId": "20",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "21",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "22",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "23",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "24",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "25",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "26",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "27",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "28",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "29",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "30",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "31",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "32",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "33",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "34",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "35",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "36",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "37",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "38",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "39",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "40",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "41",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "42",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "43",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "44",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "45",
       "isNumerable": true,
-      "isFree": true
+      "isFree": false
     },
     {
       "fontId": "46",
       "isNumerable": false,
-      "isFree": true
+      "isFree": false
     }
   ]
 }
