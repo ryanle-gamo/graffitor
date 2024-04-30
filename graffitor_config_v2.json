@@ -1,6 +1,6 @@
 {
 "latest_version": "1.2.0",
-"is_testing": false,
+"is_testing": true,
   "is_detail_ads_floating": false,
   "appstore_url": "https://itunes.apple.com/us/app/apple-store/id1502358961?mt=8",
   "is_force_update": false,
