@@ -1,9 +1,9 @@
 {
 "latest_version": "1.2.4",
-"is_testing": false,
+"is_testing": true,
   "is_detail_ads_floating": false,
   "appstore_url": "https://itunes.apple.com/us/app/apple-store/id1502358961?mt=8",
-  "is_force_update": true,
+  "is_force_update": false,
   "file_url":"https://github.com/humxam/graffitor/raw/main/",
   "att_title":"App supports free content",
   "att_message":"App activity helps support content creator by allowing ads and keeping content free for you. Continue to Allow Tracking to keep supporting free content",
